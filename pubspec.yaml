@@ -13,21 +13,21 @@ dependencies:
   flutter:
     sdk: flutter
 
-  audioplayers: ^1.1.0
-  cupertino_icons: ^1.0.2
-  go_router: ^5.0.5
+  audioplayers: ^1.1.1
+  cupertino_icons: ^1.0.5
+  go_router: ^5.1.1
   logging: ^1.1.0
-  provider: ^6.0.2
-  shared_preferences: ^2.0.13
+  provider: ^6.0.4
+  shared_preferences: ^2.0.15
 
   # If you don't need one of the following dependencies,
   # delete the relevant line below, and get rid of any Dart code
   # that references the dependency.
-  firebase_core: ^1.15.0  # Needed for Crashlytics below
-  firebase_crashlytics: ^2.8.1  # Error reporting
+  firebase_core: ^2.1.1  # Needed for Crashlytics below
+  firebase_crashlytics: ^3.0.3  # Error reporting
   games_services: ^3.0.0  # Achievements and leaderboards
-  google_mobile_ads: ^2.0.1  # Ads
-  in_app_purchase: ^3.0.1  # In-app purchases
+  google_mobile_ads: ^2.2.0  # Ads
+  in_app_purchase: ^3.0.8  # In-app purchases
 
 dev_dependencies:
   flutter_test:
